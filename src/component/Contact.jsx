@@ -58,17 +58,17 @@ function Contact() {
             </div>
             <div className="w-[400px] mt-4 rounded bg-white h-[500px] space-y-10 p-4">
                 <h1 className="font-bold text-[50px] font-sans ">CONTACT <br /> DETAILS</h1>
-                {/* <div className="flex"> 
+                <div className="flex"> 
                     <h3 className="font-bold flex ">ADDRESS</h3>
-                    <p>: update the address n0.25 </p>
-                </div> <hr /> */}
+                    <p className="w-[350px]">: Ataç-1 Sokak No: 32 Yenişehir 06420 ANKARA / TÜRKİYE Merkez District, Hatay Province, Antakya Turkey P.M.B. 304, CH-1201 Boynuyogun Antakya Turkey Ataç Sokak 1 No. 32 Yenisehir, Cankaya 06420 Ankara  </p>
+                </div> <hr />
                 <div className="flex">
                     <h3 className="font-bold">WHATSAPP :</h3>
                     <p>+90 531 500 09 46</p>
                 </div> <hr />
                 <div className="flex">
                     <h3 className="font-bold ">EMAIL :</h3>
-                    <p>relocationunitoffice1@zohomail.com</p>
+                    <p>relocationunitoffice1@zohomail.com <span className="pl-2">info@refugeerelo.com</span></p> 
                 </div>
             </div>
         </div>
