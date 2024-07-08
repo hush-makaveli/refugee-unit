@@ -51,7 +51,7 @@ function Contact() {
                 <div className="lg:w-[90%] text-wrap lg:mx-auto lg:pt-5">
                     <h4 className="font-bold text-2xl">ABOUT US</h4>
                     <p className="text-[#575555] lg:text-xl">We are an independent refugee relocation organization helping save lives and giving hope and solace to people experiencing poverty and suffering , reaching out to give them back the opportunity of a second chance to live by fostering a safe relocation process for them to reunite with loved ones in other countries We relocate from refugee camps in Turkey, Syria, Yemen, Sudan, and Libya, as well as the supply of Medicine and Bed Covers. For more information, see our approved and authorized officers:</p>
-                    <p className="text-[#575555]"><span className="font-bold">CEO : Lorem, ipsum. :</span> relocationunitoffice1@zohomail.com</p>
+                    <p className="text-[#575555]"><span className="font-bold">CEO : Sam Gomez :</span> relocationunitoffice1@zohomail.com</p>
                     <p className="text-[#575555]"><span className="font-bold">Relocation Officer:</span>  info@refugeerelo.com</p>
                     <p className="text-[#575555]"><span className="font-bold">Asst. Officer: Lorem, ipsum.:</span> Loremipsumdolorsit@updatelater</p>
                 </div>
