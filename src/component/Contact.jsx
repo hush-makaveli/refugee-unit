@@ -51,24 +51,24 @@ function Contact() {
                 <div className="lg:w-[90%] text-wrap lg:mx-auto lg:pt-5">
                     <h4 className="font-bold text-2xl">ABOUT US</h4>
                     <p className="text-[#575555] lg:text-xl">We are an independent refugee relocation organization helping save lives and giving hope and solace to people experiencing poverty and suffering , reaching out to give them back the opportunity of a second chance to live by fostering a safe relocation process for them to reunite with loved ones in other countries We relocate from refugee camps in Turkey, Syria, Yemen, Sudan, and Libya, as well as the supply of Medicine and Bed Covers. For more information, see our approved and authorized officers:</p>
-                    <p className="text-[#575555]"><span className="font-bold">CEO : Lorem, ipsum. :</span> Loremipsumdolorsit@updatelater</p>
-                    <p className="text-[#575555]"><span className="font-bold">Relocation Officer:</span> Lorem, ipsum.: Loremipsumdolorsit@updatelater</p>
+                    <p className="text-[#575555]"><span className="font-bold">CEO : Lorem, ipsum. :</span> relocationunitoffice1@zohomail.com</p>
+                    <p className="text-[#575555]"><span className="font-bold">Relocation Officer:</span>  info@refugeerelo.com</p>
                     <p className="text-[#575555]"><span className="font-bold">Asst. Officer: Lorem, ipsum.:</span> Loremipsumdolorsit@updatelater</p>
                 </div>
             </div>
             <div className="w-[400px] mt-4 rounded bg-white h-[500px] space-y-10 p-4">
                 <h1 className="font-bold text-[50px] font-sans ">CONTACT <br /> DETAILS</h1>
-                <div className="flex"> 
+                {/* <div className="flex"> 
                     <h3 className="font-bold flex ">ADDRESS</h3>
                     <p>: update the address n0.25 </p>
-                </div> <hr />
+                </div> <hr /> */}
                 <div className="flex">
                     <h3 className="font-bold">WHATSAPP :</h3>
-                    <p>+1234567890</p>
+                    <p>+90 531 500 09 46</p>
                 </div> <hr />
                 <div className="flex">
                     <h3 className="font-bold ">EMAIL :</h3>
-                    <p>updateemail@email</p>
+                    <p>relocationunitoffice1@zohomail.com</p>
                 </div>
             </div>
         </div>
@@ -91,7 +91,7 @@ function Contact() {
                     <textarea name="" className="p-3 w-[300px] h-[300px] text-wrap " id=""></textarea>
                 </div>
                 <div className="bg-[#4c6688] p-3  rounded-lg mt-3 hover:bg-[#5679eb] w-[100px] text-center text-white">
-                    <button>SUBMIT</button>
+                    <button><a href="mailto:relocationunitoffice1@zohomail.com">SUBMIT</a></button>
                 </div>
             </form>
         </div>
