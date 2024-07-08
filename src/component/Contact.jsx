@@ -56,7 +56,7 @@ function Contact() {
                         <p className="text-[#575555]"><span className="font-bold">Asst. Officer: Lorem, ipsum.:</span> Loremipsumdolorsit@updatelater</p>
                     </div>
                 </div>
-                <div className="w-[400px] mt-4 rounded bg-white h-[500px] space-y-10 p-4">
+                <div className="w-[400px] mt-4 rounded bg-white h-[700px] space-y-10 p-4">
                     <h1 className="font-bold text-[50px] font-sans ">CONTACT <br /> DETAILS</h1>
                     <div className="flex">
                         <h3 className="font-bold flex ">ADDRESS</h3>
