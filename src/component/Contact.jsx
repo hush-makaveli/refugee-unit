@@ -75,7 +75,7 @@ function Contact() {
                     </div> <hr />
                     <div className="flex">
                         <h3 className="font-bold">WHATSAPP :</h3>
-                        <p>+90 531 500 09 46</p>
+                        <p className="pl-3 text-blue-400">+90 531 500 09 46</p>
                         
                     </div>
                     <div className="flex">
