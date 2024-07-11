@@ -1,12 +1,13 @@
 import { BiDonateHeart } from "react-icons/bi";
 import { IoIosPeople } from "react-icons/io";
 import { VscWorkspaceTrusted } from "react-icons/vsc";
+import 'animate.css'
 
 
 function Service() {
   return (
     <div className=" bg-[#f7f3f3] pt-8" id="service">
-        <div>
+        <div className="animate__animated animate__flash animate__delay-4s">
             <div className='bg-[#23487f] w-[200px] rounded-lg mx-auto text-center text-white font-bold p-2'>
                 <h3>DO WHAT I LOVE</h3>
             </div>

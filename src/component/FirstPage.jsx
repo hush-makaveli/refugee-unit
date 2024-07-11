@@ -1,5 +1,6 @@
 import Header from "./Header"
 import "../App.css"
+import 'animate.css';
 
 function FirstPage() {
   return (
@@ -7,7 +8,7 @@ function FirstPage() {
         <div>
             <div id="firstbg">
                 <div className="flex justify-center pt-[150px] lg:pt-[250px]">
-                    <div>
+                    <div className="animate__animated animate__fadeInDown">
                         <div className="w-[100%] lg:w-[70%] flex mx-auto">
                         <p className="text-white text-[35px] lg:text-[50px] font-bold text-center">Welcome to Refugee Relocation Unit: Building New Begining</p>
                         </div>
